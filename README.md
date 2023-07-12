@@ -28,8 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto realizado com os irmãos do DevEmDobro, criando uma página do X-men, com Javacript é possível navegar e alterar as imagens. É uma página responsiva, sendo possível acessar por celulares, tablets e desktop.
-
+Projeto realizado com os irmãos do DevEmDobro, criando uma página do X-men, ao passar o mouse em cima do personagem na lista, faz uma seleção da imagem com borda azul e mostrar a imagem grande, o nome e o texto do personagem que está selecionado. Projeto com página responsiva, sendo possível acessar por celulares, tablets e desktop.
 
 <br>
 
